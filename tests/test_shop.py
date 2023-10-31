@@ -3,7 +3,7 @@ import random
 import allure
 import pytest
 
-from homework.models import Product, Cart
+from tests.models import Product, Cart
 
 
 @allure.tag("web")
